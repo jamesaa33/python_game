@@ -1,2 +1,2 @@
 # python_game
-simple python game 
+Simple python Game!
